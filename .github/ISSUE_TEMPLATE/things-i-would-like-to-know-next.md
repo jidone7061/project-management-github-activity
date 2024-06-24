@@ -1,8 +1,8 @@
 ---
-name: Things we want to know next
+name: Things i would like to know next
 about: Describe this issue template's purpose here.
-title: 'Thing we want to know: <file in title> [Thing we want to Knows]'
-labels: Thing we want to know next
+title: 'Thing I want to know: <file in title> [Thing I want to Knows]'
+labels: Want to Know
 assignees: ''
 
 ---
